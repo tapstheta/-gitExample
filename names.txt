@@ -1,3 +1,3 @@
-employee,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
 boss,nangpal,Nangpal,Tapasya
 employee,jemankin,Mankin,Juliet
